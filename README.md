@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elwerdany</h1>
 <h3 align="center">A passionate Front-End Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelwerdany&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelwerdany" /> </p>
-
 - 🔭 I’m currently working on [invoke-before-after](https://github.com/AhmedElwerdany/invoke-before-after)
 
 - 🌱 I’m currently learning **AST, Nest.js**

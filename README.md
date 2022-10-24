@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [invoke-before-after](https://github.com/AhmedElwerdany/invoke-before-after)
 
-- 📝 I regularly write articles on [https://xcoder7.blogspot.com/](https://xcoder7.blogspot.com/)
+- 📝 I regularly write articles on [https://ahmedelwerdany.github.io/](https://ahmedelwerdany.github.io/)
 
 - 💬 Ask me about **javascript, typescript, react, vue**
 

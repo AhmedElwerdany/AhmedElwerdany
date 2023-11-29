@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elwerdany</h1>
 <h3 align="center">A passionate Front-End Developer from Egypt</h3>
 
-- 🔭 I’m currently working on [invoke-before-after](https://github.com/AhmedElwerdany/invoke-before-after)
+- 🔭 I’m currently working on [blogger-image](https://github.com/AhmedElwerdany/blogger-image)
 
-- 🌱 I’m currently learning **AST, Nest.js**
-
-- 🤝 I’m looking for help with [invoke-before-after](https://github.com/AhmedElwerdany/invoke-before-after)
-
+- 🌱 I’m currently learning **Rust**
+  
 - 📝 I regularly write articles on [https://ahmedelwerdany.github.io/](https://ahmedelwerdany.github.io/)
 
 - 💬 Ask me about **javascript, typescript, react, vue**
